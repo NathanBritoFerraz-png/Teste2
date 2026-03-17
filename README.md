@@ -25,6 +25,8 @@ para atualizar o estado da máquina (principal)
 
 git push -u origin main (para fazer o upload de seus arquivos no seu repositório do Git Hub)
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 SEGUNDAS OCASIÔES (BACKUP DE COMMIT)
 
 1- git log --oneline (Caso você precise voltar um commit antigo este comando irá listar todos os seus commits e para 
